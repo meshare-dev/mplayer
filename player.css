@@ -1,6 +1,6 @@
 #player {
   /* The image to be shown when receiver app is launched. */
-  --splash-image: url('chromecast_ultra.png');
+  --splash-image: url('https://meshare-dev.github.io/mplayer/background.png');
 
   /* The hue to use for the player. */
   --theme-hue: 100;
